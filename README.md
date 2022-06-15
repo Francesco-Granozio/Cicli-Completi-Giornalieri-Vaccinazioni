@@ -2,5 +2,5 @@
 📊📈 Analysis of daily complete vaccination cycles
 
 <div align="center">
-  <img src="https://github.com/Francesco-Granozio/Cicli-Completi-Giornalieri-Vaccinazioni\traccia.png" />
+  <img src="https://github.com/Francesco-Granozio/Cicli-Completi-Giornalieri-Vaccinazioni/blob/main/traccia.png" />
 </div>
